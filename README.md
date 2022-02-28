@@ -4,9 +4,7 @@
 <br>
 <div>
 
- <img height="150em" src ="https://github-readme-stats.vercel.app/api?username=joaogrigol&show_icons=true&theme=tokyonight"/>
 
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogrigol"/>
 </div>
 
 <br>
